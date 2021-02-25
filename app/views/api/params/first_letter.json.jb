@@ -1,0 +1,3 @@
+{
+  message: "Your message is #{@first_letter_a}",
+}
