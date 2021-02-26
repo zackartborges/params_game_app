@@ -3,5 +3,5 @@
 #   puts "Hey! your name starts with an A :O."
 
 {
-  message: @first_letter_a,
+  message: @message,
 }
