@@ -18,5 +18,6 @@ class Api::ParamsController < ApplicationController
     else
       @message = "You got it!"
     end
+    render "first_letter.json.jb"
   end
 end
